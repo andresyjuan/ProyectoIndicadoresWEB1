@@ -157,10 +157,18 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\ControlConexion.cs" />
+    <Compile Include="Controllers\ControlTipoActor.cs" />
     <Compile Include="Controllers\ControlUsuario.cs" />
     <Compile Include="Controllers\ControlUsuarioBase.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="FrmTipoActor.aspx.cs">
+      <DependentUpon>FrmTipoActor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmTipoActor.aspx.designer.cs">
+      <DependentUpon>FrmTipoActor.aspx</DependentUpon>
+    </Compile>
     <Compile Include="FrmUsuario.cs">
       <DependentUpon>FrmUsuario.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -172,6 +180,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Rol.cs" />
+    <Compile Include="Models\TipoActor.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -198,6 +207,7 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="favicon.ico" />
+    <Content Include="FrmTipoActor.aspx" />
     <Content Include="FrmUsuario.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
