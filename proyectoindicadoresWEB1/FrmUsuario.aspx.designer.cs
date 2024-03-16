@@ -10,7 +10,7 @@
 namespace proyectoIndicadoresWEB1
 {
 
-
+      
     public partial class FrmUsuario
     {
 

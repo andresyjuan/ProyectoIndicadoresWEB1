@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml">  
     <head runat="server">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
             <title>Tipo Actor</title>
@@ -15,10 +15,10 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
 		<style>
-		body {
+		body {  
 			color: #566787;
 			background: #f5f5f5;
-			font-family: 'Varela Round', sans-serif;
+			font-family: 'Varela Round', sans-serif;   
 			font-size: 13px;
 		}
 		.table-responsive {

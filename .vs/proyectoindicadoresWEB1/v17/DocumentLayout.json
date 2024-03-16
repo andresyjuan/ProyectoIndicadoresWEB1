@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B4755-B76C-4910-B26A-E7D817EF1518}|proyectoindicadoresWEB1\\proyectoindicadoresWEB1.csproj|c:\\profe carlos\\proyectoindicadoresweb1\\proyectoindicadoresweb1\\controllers\\controlfuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B4755-B76C-4910-B26A-E7D817EF1518}|proyectoindicadoresWEB1\\proyectoindicadoresWEB1.csproj|solutionrelative:proyectoindicadoresweb1\\controllers\\controlfuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlFuente.cs",
+              "DocumentMoniker": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
+              "RelativeDocumentMoniker": "proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
+              "ToolTip": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
+              "RelativeToolTip": "proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:03:21.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

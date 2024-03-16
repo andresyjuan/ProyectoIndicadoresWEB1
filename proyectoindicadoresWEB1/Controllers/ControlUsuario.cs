@@ -6,7 +6,7 @@ namespace proyectoIndicadoresWEB1.Controllers
     public class ControlUsuario
     {
         Usuario objUsuario;
-
+          
         public ControlUsuario(Usuario objUsuario)
         {
             this.objUsuario = objUsuario;

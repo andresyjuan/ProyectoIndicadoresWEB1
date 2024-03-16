@@ -5,8 +5,8 @@ using System.Web;
 
 namespace proyectoindicadoresWEB1.Models
 {
-    public class Usuario
-    {
+    public class Usuario 
+    {  
         private string email;
         private string contrasena;
 

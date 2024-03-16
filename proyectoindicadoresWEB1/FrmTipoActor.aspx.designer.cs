@@ -6,13 +6,13 @@
 //     the code is regenerated. 
 // </auto-generated>
 //------------------------------------------------------------------------------
-
+  
 namespace proyectoindicadoresWEB1
-{
+{ 
+       
 
-
-    public partial class FrmTipoActor
-    {
+    public partial class FrmTipoActor 
+    {   
 
         /// <summary>
         /// form1 control.

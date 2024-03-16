@@ -7,17 +7,17 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using proyectoindicadoresWEB1.Controllers;
-using System.Xml.Linq;
+using System.Xml.Linq;    
 
 namespace proyectoindicadoresWEB1
-{
+{          
     public partial class FrmTipoActor : System.Web.UI.Page
     {
-
+          
         public TipoActor[] arregloTipoActor = null;
         protected void Page_Load(object sender, EventArgs e)
         {
-            ControlTipoActor objControlTipoActor = new ControlTipoActor();
+            ControlTipoActor objControlTipoActor = new ControlTipoActor();  
             arregloTipoActor = objControlTipoActor.listar();
         }
 

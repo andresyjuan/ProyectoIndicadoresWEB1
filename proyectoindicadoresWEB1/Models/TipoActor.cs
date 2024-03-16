@@ -4,11 +4,11 @@ using System.Linq;
 using System.Web;
 
 namespace proyectoindicadoresWEB1.Models
-{
-    public class TipoActor
+{                  
+    public class TipoActor   
     {
      private int id;
-        private string nombre;
+     private string nombre;
 
         public int Id { get { return id; } set => id = value; }
         public string Nombre { get { return nombre; } set => nombre = value; }

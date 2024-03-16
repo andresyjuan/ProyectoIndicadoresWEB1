@@ -17,7 +17,7 @@
 		<style>
 		body {
 			color: #566787;
-			background: #f5f5f5;
+			background: #f5f5f5; 
 			font-family: 'Varela Round', sans-serif;
 			font-size: 13px;
 		}
@@ -264,7 +264,7 @@
                     }
                 });
             });
-		</script>	
+        </script>	
 	
 	</head>
     <body>

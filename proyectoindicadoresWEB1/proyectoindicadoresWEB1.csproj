@@ -157,10 +157,12 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\ControlConexion.cs" />
+    <Compile Include="Controllers\ControlFuente.cs" />
     <Compile Include="Controllers\ControlTipoActor.cs" />
     <Compile Include="Controllers\ControlUsuario.cs" />
     <Compile Include="Controllers\ControlUsuarioBase.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ControlRepresenVisual.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="FrmTipoActor.aspx.cs">
       <DependentUpon>FrmTipoActor.aspx</DependentUpon>
@@ -176,13 +178,29 @@
     <Compile Include="FrmUsuario.aspx.designer.cs">
       <DependentUpon>FrmUsuario.aspx</DependentUpon>
     </Compile>
+    <Compile Include="FrmFuente.aspx.cs">
+      <DependentUpon>FrmFuente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmFuente.aspx.designer.cs">
+      <DependentUpon>FrmFuente.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Fuente.cs" />
+    <Compile Include="Models\RepresenVisual.cs" />
     <Compile Include="Models\Rol.cs" />
     <Compile Include="Models\TipoActor.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FrmRepresenVisual.aspx.cs">
+      <DependentUpon>FrmRepresenVisual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmRepresenVisual.aspx.designer.cs">
+      <DependentUpon>FrmRepresenVisual.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\BDINDICADORES1.mdf" />
@@ -209,7 +227,9 @@
     <Content Include="favicon.ico" />
     <Content Include="FrmTipoActor.aspx" />
     <Content Include="FrmUsuario.aspx" />
+    <Content Include="FrmFuente.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="FrmRepresenVisual.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />

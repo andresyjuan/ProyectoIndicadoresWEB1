@@ -14,7 +14,7 @@ namespace proyectoindicadoresWEB1.Controllers
         public ControlTipoActor(TipoActor tipoActor )
         {
             objtipoActor = tipoActor;
-
+              
         }
          public ControlTipoActor()
         {
@@ -42,7 +42,7 @@ namespace proyectoindicadoresWEB1.Controllers
         }
         public void borrar()
         {
-            int id = objtipoActor.Id;
+            int nombre = objtipoActor.Id;
             string sql = "DELETE FROM tipoactor WHERE id='" + objtipoActor.Id + "'";
             ControlConexion objControlConexion = new ControlConexion("BDINDICADORES1.mdf");
             objControlConexion.abrirBD();

@@ -80,6 +80,6 @@ C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\bin\Antlr3.Runti
 C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\obj\Debug\proyectoindicadoresWEB1.csproj.AssemblyReference.cache
 C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\obj\Debug\proyectoindicadoresWEB1.csproj.CoreCompileInputs.cache
-C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\obj\Debug\proyectoindicadoresWEB1.csproj.CopyComplete
 C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\obj\Debug\proyectoindicadoresWEB1.dll
 C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\obj\Debug\proyectoindicadoresWEB1.pdb
+C:\Profe Carlos\proyectoindicadoresWEB1\proyectoindicadoresWEB1\obj\Debug\proyecto.437CFD1A.Up2Date
