@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E46B4755-B76C-4910-B26A-E7D817EF1518}|proyectoindicadoresWEB1\\proyectoindicadoresWEB1.csproj|c:\\profe carlos\\proyectoindicadoresweb1\\proyectoindicadoresweb1\\controllers\\controlfuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46B4755-B76C-4910-B26A-E7D817EF1518}|proyectoindicadoresWEB1\\proyectoindicadoresWEB1.csproj|solutionrelative:proyectoindicadoresweb1\\controllers\\controlfuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E46B4755-B76C-4910-B26A-E7D817EF1518}|proyectoindicadoresWEB1\\proyectoindicadoresWEB1.csproj|c:\\profe carlos\\proyectoindicadoresweb1\\proyectoindicadoresweb1\\frmrepresenvisual.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E46B4755-B76C-4910-B26A-E7D817EF1518}|proyectoindicadoresWEB1\\proyectoindicadoresWEB1.csproj|solutionrelative:proyectoindicadoresweb1\\frmrepresenvisual.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 378,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRepresenVisual.aspx",
+              "DocumentMoniker": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\proyectoindicadoresWEB1\\FrmRepresenVisual.aspx",
+              "RelativeDocumentMoniker": "proyectoindicadoresWEB1\\FrmRepresenVisual.aspx",
+              "ToolTip": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\proyectoindicadoresWEB1\\FrmRepresenVisual.aspx",
+              "RelativeToolTip": "proyectoindicadoresWEB1\\FrmRepresenVisual.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-16T04:19:44.58Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -23,19 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ControlFuente.cs",
-              "DocumentMoniker": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
-              "RelativeDocumentMoniker": "proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
-              "ToolTip": "C:\\Profe Carlos\\proyectoindicadoresWEB1\\proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
-              "RelativeToolTip": "proyectoindicadoresWEB1\\Controllers\\ControlFuente.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAmwDAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T04:03:21.811Z",
-              "EditorCaption": ""
             }
           ]
         },
